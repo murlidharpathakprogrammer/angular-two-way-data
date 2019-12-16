@@ -10,6 +10,6 @@ export class AppComponent  {
 
   constructor () {}
 
-  name: string;
+  username: string;
   
 }
